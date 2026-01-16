@@ -1,4 +1,4 @@
-# Шашки
+# (Шашки online)[https://dmitiy.github.io/checker/]
 
 Основные функции:
 
